@@ -10,7 +10,7 @@
 
 #define RECEIVE_THREAD 0
 #define SEND_THREAD 0
-#define BOT_AMOUT 5000
+#define BOT_AMOUT 500
 #define CONNECT_HZ 500
 #define SERVER_IP "192.168.15.246"
 //#define SERVER_IP "127.0.0.1"
