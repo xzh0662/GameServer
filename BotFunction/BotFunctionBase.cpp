@@ -14,6 +14,7 @@ int BotFunctionBase::send(Buffer *buffer)
 	{
 		return -1;
 	}
+
 	return m_pBot->send(buffer);
 }
 
