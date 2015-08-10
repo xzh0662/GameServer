@@ -45,7 +45,8 @@ int main(int argc, char **argv)
 	BOT_MONITOR->final();
 
 	printf("bot main stop!\n");
-
+	
+	
 	return 0;
 }
 
